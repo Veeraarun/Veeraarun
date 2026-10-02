@@ -1,105 +1,192 @@
-# Hi, I'm Veera Arun 👋
+<div align="center">
 
-### Full-Stack Developer | B.Tech CSBS Student | Building practical web applications
+# 👋 Hey, I'm Veera Arun
 
-I'm a Computer Science and Business Systems student focused on building modern, useful web applications and exploring AI-powered solutions.
+### Full-Stack Developer • CSBS Student • Builder
 
-I enjoy turning ideas into working products — from frontend interfaces to backend APIs and database-driven applications.
+<p>
+  <a href="https://github.com/Veeraarun">
+    <img src="https://img.shields.io/badge/GitHub-Veeraarun-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/veera-arun-v">
+    <img src="https://img.shields.io/badge/LinkedIn-Veera%20Arun-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://myhabix.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Project-HabitFlow-111827?style=for-the-badge&logo=vercel" alt="HabitFlow">
+  </a>
+</p>
+
+<p>
+  <b>Turning ideas into practical web applications.</b><br>
+  I build modern frontend experiences, backend APIs, database-driven systems,<br>
+  and AI-powered prototypes that solve real problems.
+</p>
+
+</div>
 
 ---
 
-## 🚀 What I Work With
+## 🧑‍💻 About Me
 
-**Frontend:** HTML • CSS • JavaScript • React
+I'm a **Computer Science and Business Systems student** focused on becoming a strong full-stack developer.
 
-**Backend:** Node.js • Express.js • Python • FastAPI
+I enjoy working across the stack — from designing responsive interfaces to building APIs, connecting databases, and integrating AI into useful applications.
 
-**Database:** MySQL • PostgreSQL
-
-**Tools:** Git • GitHub • VS Code
+**Currently focused on:** JavaScript • React • Backend Development • AI Integration
 
 ---
 
-## 🔥 Featured Projects
+## ⚡ Tech Stack
 
-### 🏛️ [DISHA](https://github.com/Veeraarun/DISHA)
-**AI-Powered Recommendation Engine for Indian Standards**
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" alt="Frontend technologies">
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mysql,postgres" alt="Backend and database technologies">
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools">
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ DISHA
+**AI-Powered Indian Standards Recommendation Engine**
 
 A procurement-focused platform that analyzes product specifications and recommends applicable Indian Standards.
 
-**Tech:** React • Vite • FastAPI • PostgreSQL • AI
+**Built with**
 
-### 🧠 [Vision-X](https://github.com/Veeraarun/Vision-X)
+`React` • `Vite` • `FastAPI` • `PostgreSQL` • `AI`
+
+<a href="https://github.com/Veeraarun/DISHA">🔗 View Project</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Vision-X
 **AI-Assisted VR Therapy Platform**
 
 A web-based immersive therapy platform combining VR experiences with AI-assisted functionality.
 
-**Tech:** React • FastAPI • Gemini • A-Frame • WebVR
+**Built with**
 
-### ✅ [HabitFlow](https://github.com/Veeraarun/HabitFlow)
-**Habit Tracking Web Application**
+`React` • `FastAPI` • `Gemini` • `A-Frame` • `WebVR`
 
-A React-based habit tracker with schedules, streaks, statistics, reminders, offline support and PWA functionality.
+<a href="https://github.com/Veeraarun/Vision-X">🔗 View Project</a>
 
-🌐 [Live Demo](https://myhabix.vercel.app/)
+</td>
+</tr>
 
-**Tech:** React • Vite • Tailwind CSS • PWA
+<tr>
+<td width="50%" valign="top">
 
-### 🛡️ [Shield-X](https://github.com/Veeraarun/Shield-X)
+### ✅ HabitFlow
+**Habit Tracking Progressive Web App**
+
+A habit tracker with schedules, streaks, statistics, reminders, offline support and PWA functionality.
+
+**Built with**
+
+`React` • `Vite` • `Tailwind CSS` • `PWA`
+
+<a href="https://myhabix.vercel.app/">🌐 Live Demo</a> • <a href="https://github.com/Veeraarun/HabitFlow">💻 GitHub</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Shield-X
 **AI Social Media Threat Monitor**
 
 A security-focused prototype for detecting and analyzing potentially harmful online content and URLs.
 
-**Tech:** Python • FastAPI • JavaScript • Security APIs
+**Built with**
+
+`Python` • `FastAPI` • `JavaScript` • `Security APIs`
+
+<a href="https://github.com/Veeraarun/Shield-X">🔗 View Project</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Other Projects
+## 📂 More Projects
 
-- 🛒 [Amazon Project JS](https://github.com/Veeraarun/amazon-project-js) — JavaScript-based e-commerce application
-- 💼 [ProjectsHub](https://github.com/Veeraarun/ProjectsHub) — Project showcase platform
-- 🌐 [Portfolio](https://github.com/Veeraarun/Portfolio) — Personal developer portfolio
-- 🎨 [Frontend Mentor Challenges](https://github.com/Veeraarun/Frontend-Mentor-Challenges) — Responsive frontend practice
+| Project | What it is |
+|---|---|
+| 🛒 **[Amazon Project JS](https://github.com/Veeraarun/amazon-project-js)** | JavaScript e-commerce application |
+| 💼 **[ProjectsHub](https://github.com/Veeraarun/ProjectsHub)** | Project showcase platform |
+| 🌐 **[Portfolio](https://github.com/Veeraarun/Portfolio)** | Personal developer portfolio |
+| 🎨 **[Frontend Mentor Challenges](https://github.com/Veeraarun/Frontend-Mentor-Challenges)** | Responsive frontend practice |
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Best Paper Award — National Conference, Karpagam University
-- 🥇 First Prize — Prompt Engineering, JCT College
-- 🥈 Second Prize — Ideathon, Akshaya College
-- 🏅 Finalist — IncepTrix Hackathon, JAIN University
-- 🇮🇳 Participant — Smart India Hackathon
+<div align="center">
+
+| 🥇 | Achievement |
+|---|---|
+| 🏅 | **Best Paper Award** — National Conference, Karpagam University |
+| 🥇 | **First Prize** — Prompt Engineering, JCT College |
+| 🥈 | **Second Prize** — Ideathon, Akshaya College |
+| 🏅 | **Finalist** — IncepTrix Hackathon, JAIN University |
+| 🇮🇳 | **Participant** — Smart India Hackathon |
+
+</div>
 
 ---
 
 ## 📜 Certifications
 
-- Google AI Professional Certificate
-- Google Cybersecurity Professional Certificate
+<p align="center">
+  <img src="https://img.shields.io/badge/Google-AI%20Professional%20Certificate-4285F4?style=flat-square&logo=google" alt="Google AI Professional Certificate">
+  <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-34A853?style=flat-square&logo=google" alt="Google Cybersecurity Professional Certificate">
+</p>
 
 ---
 
-## 🎯 Currently
+## 🎯 What I'm Doing Now
 
-- Building full-stack web applications
-- Strengthening JavaScript & React
-- Learning backend development
-- Exploring AI integration in web applications
-- Preparing for software development opportunities
+<div align="center">
+
+**🔨 Building** full-stack web applications  
+**⚛️ Strengthening** JavaScript & React  
+**⚙️ Learning** backend development  
+**🤖 Exploring** AI-powered web applications  
+**💼 Preparing** for software development opportunities
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-📧 **Email:** veeraarun690@gmail.com
+<div align="center">
 
-💼 [LinkedIn](https://linkedin.com/in/veera-arun-v)
+<a href="mailto:veeraarun690@gmail.com">
+  <img src="https://img.shields.io/badge/Email-veeraarun690%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://linkedin.com/in/veera-arun-v">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://veeraarun.github.io/Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
 
-🌐 [Portfolio](https://veeraarun.github.io/Portfolio)
+<br><br>
 
-🐙 [GitHub](https://github.com/Veeraarun)
+⭐ <b>Explore the repositories below and see what I'm building.</b>
 
----
-
-⭐ Feel free to explore my repositories and projects!
+</div>
