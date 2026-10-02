@@ -18,7 +18,7 @@
 
 **Turning ideas into practical web applications.**
 
-I build modern interfaces, backend APIs, database-driven systems,  
+I build modern interfaces, backend APIs, database-driven systems,<br>
 and AI-powered applications that solve real problems.
 
 </div>
@@ -61,47 +61,111 @@ I enjoy working across the stack — building responsive interfaces, creating AP
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏛️ DISHA
+
 **AI-Powered Indian Standards Recommendation Engine**
+
+<br>
 
 A procurement platform that analyzes product specifications and recommends applicable Indian Standards.
 
-**Stack:** `React` · `Vite` · `FastAPI` · `PostgreSQL` · `AI`
+<br>
 
-🔗 **[View Project](https://github.com/Veeraarun/DISHA)**
+**Stack**
 
----
+`React` · `Vite` · `FastAPI`  
+`PostgreSQL` · `AI`
+
+<br>
+
+🔗 **[View Project →](https://github.com/Veeraarun/DISHA)**
+
+<br><br>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🧠 Vision-X
+
 **AI-Assisted VR Therapy Platform**
+
+<br>
 
 A web-based immersive therapy platform combining VR experiences with AI-assisted functionality.
 
-**Stack:** `React` · `FastAPI` · `Gemini` · `A-Frame` · `WebVR`
+<br>
 
-🔗 **[View Project](https://github.com/Veeraarun/Vision-X)**
+**Stack**
 
----
+`React` · `FastAPI` · `Gemini`  
+`A-Frame` · `WebVR`
+
+<br>
+
+🔗 **[View Project →](https://github.com/Veeraarun/Vision-X)**
+
+<br><br>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### ✅ HabitFlow
+
 **Habit Tracking Progressive Web App**
+
+<br>
 
 A habit tracker with schedules, streaks, statistics, reminders, offline support, and PWA functionality.
 
-**Stack:** `React` · `Vite` · `Tailwind CSS` · `PWA`
+<br>
 
-🌐 **[Live Demo](https://myhabix.vercel.app/)** · 💻 **[GitHub](https://github.com/Veeraarun/HabitFlow)**
+**Stack**
 
----
+`React` · `Vite` · `Tailwind CSS` · `PWA`
+
+<br>
+
+🌐 **[Live Demo →](https://myhabix.vercel.app/)**  
+💻 **[GitHub →](https://github.com/Veeraarun/HabitFlow)**
+
+<br><br>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🛡️ Shield-X
+
 **AI Social Media Threat Monitor**
+
+<br>
 
 A security-focused prototype for detecting and analyzing potentially harmful online content and URLs.
 
-**Stack:** `Python` · `FastAPI` · `JavaScript` · `Security APIs`
+<br>
 
-🔗 **[View Project](https://github.com/Veeraarun/Shield-X)**
+**Stack**
+
+`Python` · `FastAPI`  
+`JavaScript` · `Security APIs`
+
+<br>
+
+🔗 **[View Project →](https://github.com/Veeraarun/Shield-X)**
+
+<br><br>
+
+</td>
+</tr>
+</table>
 
 ---
 
